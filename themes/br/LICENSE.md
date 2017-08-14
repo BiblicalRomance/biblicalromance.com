@@ -1,0 +1,1 @@
+Copyright (c) 2017 [David Pennington](http://biblicalromance.com)

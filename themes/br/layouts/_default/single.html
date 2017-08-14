@@ -1,0 +1,35 @@
+    {{ partial "head.html" . }}
+    <body>
+       {{ partial "nav.html" . }}
+
+        <main>
+            <article class="post">
+                <!-- <h1>{{ .Title }}</h1> -->
+
+                {{ if .Site.Params.enableToc }}
+                  {{ if and (gt .WordCount 400 ) (ne .Params.toc "false") }}
+                    {{ if .TableOfContents }}
+                      <div id="toc">
+                        {{ .TableOfContents }}
+                      </div>
+                    {{ end }}
+                  {{ end }}
+                {{ end }}
+
+                {{ .Content }}
+            </article>
+
+            {{ if .Site.Params.enableDisqus }}
+                {{ partial "disqus.html" . }}
+            {{ end }}
+
+            {{ if .Site.Params.enableDuoshuo }}
+                {{ partial "duoshuo.html" . }}
+            {{ end }}
+
+            {{ partial "footer.html" . }}
+        </main>
+
+        {{ partial "js.html" . }}
+    </body>
+</html>

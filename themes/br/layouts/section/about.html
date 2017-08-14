@@ -1,0 +1,23 @@
+{{ partial "head.html" . }}
+<body>
+  {{ partial "nav.html" . }}
+
+  <main>
+    <article class="content">
+        <h1>section/about.html</h1>
+        {{ .Content }}
+
+        {{ if .Site.Params.enableDisqus }}
+            {{ partial "disqus.html" . }}
+        {{ end }}
+
+        {{ if .Site.Params.enableDuoshuo }}
+            {{ partial "duoshuo.html" . }}
+        {{ end }}
+
+        {{ partial "footer.html" . }}
+    </article>
+  </main>
+
+  {{ partial "js.html" . }}
+</body>

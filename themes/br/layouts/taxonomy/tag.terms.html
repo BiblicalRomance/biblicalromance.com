@@ -1,0 +1,36 @@
+{{ partial "head.html" . }}
+   <body>
+      {{ partial "nav.html" . }}
+
+      	<article id="content">
+
+          <h3>Article Topics</h3>
+          <ul class="tags">
+            {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+              <li><a style="text-transform: capitalize" href="#{{ $name | urlize}}">{{ $name }}</a>
+                <!-- <span>({{ len $taxonomy }})</span> -->
+              </li>
+            {{ end }}
+          </ul>
+
+          <br><br><hr>
+
+           <div class="page-tags" id="tags">
+               {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+
+                <h3 style="text-transform: capitalize" id="{{ $name | urlize }}">{{ $name }}</h3>
+                {{ range $taxonomy }}
+                  <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+                  <p>{{ .Description }}</p>
+                {{ end }}
+
+               {{ end }}
+           </div>
+
+           {{ partial "footer.html" . }}
+
+       </article>
+
+       {{ partial "js.html" . }}
+   </body>
+</html>

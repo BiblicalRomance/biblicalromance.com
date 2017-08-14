@@ -1,0 +1,11 @@
+<nav class="main-nav">
+	{{ $url := replace .Permalink .Site.BaseURL "" }}
+
+	{{ if not .IsHome }}
+		<a href='{{ .Site.BaseURL }}'> <span class="arrow">←</span>{{ with .Site.Params.home }}{{ . }}{{ else }}Home{{ end }}</a>
+	{{ end }}
+
+	{{ range .Pages }}
+		<p>{{ .Title }} {{ .Kind }} has {{ len .Pages}}</p>
+	{{ end }}
+</nav>
