@@ -99,7 +99,7 @@ h2 {
   padding: 0 0 0.5em 0;
 }
 
-article {
+article, footer {
   margin: 0 auto;
   max-width: 600px;
   padding: 4em 2em;
@@ -109,6 +109,16 @@ footer {
   color: #999;
 }
 
+
+.links {
+  margin: 2em 0;
+  padding: 2em 0;
+  border-top: 1px solid #ccc;
+}
+
+.links .next {
+  float: right;
+}
 
 /* Nav */
 

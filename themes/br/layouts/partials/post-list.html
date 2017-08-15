@@ -1,4 +1,4 @@
-<h1>Post list</h1>
+<h1>post-list.html</h1>
 <div id="post-list">
     {{ range where .Paginator.Pages "Params.hidden" "ne" "true" }}
     {{ $url := replace .Permalink .Site.BaseURL "" }}

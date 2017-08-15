@@ -17,6 +17,17 @@
                 {{ end }}
 
                 {{ .Content }}
+
+                <div class="links">
+                  {{if .PrevInSection}}
+                    <a class="prev" href="{{.PrevInSection.Permalink}}">← Prev: {{ .PrevInSection.Title}}</a>
+                  {{end}}
+
+                  {{if .NextInSection}}
+                    <a class="next" href="{{.NextInSection.Permalink}}">Next: {{ .NextInSection.Title}} →</a>
+                  {{end}}
+                </div>
+
             </article>
 
             {{ if .Site.Params.enableDisqus }}

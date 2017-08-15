@@ -7,68 +7,66 @@
 			<main>
       	<article id="content">
 
-					<!-- <pre>{{ printf "%#v" . }}</pre> -->
+					<!-- <h1>Articles</h1> -->
 
 
-					<pre>TITLE: {{ .Title }}</pre>
 
-					<hr>
+					{{ range .Sections }}
+					  <h2>{{ .Title }}</h2>
+						<p>{{ .Content }}</p>
 
-					<h1>Test 1: group by</h1>
+						{{ range .Pages }}
+              <div>
+                <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+                <p>
+                  {{ .Plain | truncate 200 }}
+                  {{ if .Truncated }}
+                    <!-- This <div> includes a read more link, but only if the summary is truncated... -->
+                    <!-- <a href="{{ .RelPermalink }}">Read More…</a> -->
+                  {{ end }}
+                </p>
+              </div>
 
-					<!-- Groups content according to content section.-->
-					{{ range $s := .Data.Pages.GroupBy "Section" }}
+					  {{ end }}
 
-						<pre>{{ printf "%#v" . }}</pre>
-						<!-- Checks for existence of _index.md for a section; if available, pulls from "title" in front matter -->
-						{{ with $.Site.GetPage "section" .Key }}
-							<h3>{{.Title}}</h3>
-						{{ else }}
-							<!-- If no _index.md is available, ".Key" defaults to the section title and filters to title casing -->
-							<h3>{{ .Key | title }}</h3>
-						{{ end }}
+            {{ range where .Paginator.Pages "Params.hidden" "ne" "true" }}
+  {{with .PrevInSection }}
+  {{ . }}
+  {{ end }}
+  {{ with .NextInSection }}
+  {{ . }}
+  {{ end }}
+  {{ end }}
 
-						<ul>
-						    {{ range $s.Pages }}
-						    <li>
-						    <a href="{{ .Permalink }}">{{ .Title }}</a>
-						    	<div class="meta">{{ .Date.Format "Mon, Jan 2, 2006" }}</div>
-						    </li>
-						    {{ end }}
-						</ul>
-					{{ end }}
+					  {{ range .Sections }}
+              {{ if not .Params.hidden }}
+					     <h3>Subsection: {{ .Title }}</h3>
+							 {{ .Content }}
 
+					     {{ range .Pages }}
 
-					<hr>
+                <div>
+                  <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+                  <p>
+                    {{ .Plain | truncate 200 }}
+                    {{ if .Truncated }}
+                      <!-- This <div> includes a read more link, but only if the summary is truncated... -->
+                      <!-- <a href="{{ .RelPermalink }}">Read More…</a> -->
+                    {{ end }}
+                  </p>
+                </div>
 
-
-					<h1>Another test</h1>
-					{{ range $.Site.Home.Sections }}
-						{{ if .Section }}
-						  <h3>Section: {{ .Title }}</h3>
-							<p>{{ .Content }}</p>
-							<pre>{{ printf "%#v" . }}</pre>
-
-							{{ range .Pages }}
-						     <h4>Section Page: {{ .Title }}</h4>
-						  {{ end }}
-
-						  {{ range .Sections }}
-						     <h4>Subsection: {{ .Title }}</h4>
-								 {{ .Content }}
-								 
-						     {{ range .Pages }}
-						       <p>Subsection page: {{ .Title }}</p>
-						     {{ end }}
-						  {{ end }}
-						{{ end}}
-
-					{{ end }}
+					     {{ end }}
+               {{ end }}
+					  {{ end }}
+					{{ end}}
 
 
-					<hr>
 
-					<h1>Test Sections</h1>
+					<!-- <hr> -->
+
+
+					<!-- <h1>Test Sections</h1>
 					<ul>
 						{{ range $.Site.Home.Sections }}
 						  <li>Section: {{ .Title }}
@@ -79,65 +77,8 @@
 								</ul>
 							</li>
 						{{ end }}
-					</ul>
+					</ul> -->
 
-
-					<hr>
-
-
-					<h1>Test 2</h1>
-
-					<ul>
-			    <!-- Ranges through content/post/*.md -->
-			    {{ range .Data.Pages }}
-			        <li>
-			            <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
-
-									<ul>
-							    <!-- Ranges through content/post/*.md -->
-							    {{ range .Data.Pages }}
-							        <li>
-							            <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
-													<ul>
-											    <!-- Ranges through content/post/*.md -->
-											    {{ range .Data.Pages }}
-											        <li>
-											            <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
-											        </li>
-											    {{ end }}
-											    </ul>
-							        </li>
-							    {{ end }}
-							    </ul>
-			        </li>
-			    {{ end }}
-			    </ul>
-
-
-					<h1>Test 3: Tags template</h1>
-
-          <h3>Article Topics</h3>
-          <ul class="tags">
-            {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
-              <li><a style="text-transform: capitalize" href="#{{ $name | urlize}}">{{ $name }}</a>
-                <!-- <span>({{ len $taxonomy }})</span> -->
-              </li>
-            {{ end }}
-          </ul>
-
-          <br><br><hr>
-
-           <div class="page-tags" id="tags">
-               {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
-
-                <h3 style="text-transform: capitalize" id="{{ $name | urlize }}">{{ $name }}</h3>
-                {{ range $taxonomy }}
-                  <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-                  <p>{{ .Description }}</p>
-                {{ end }}
-
-               {{ end }}
-           </div>
 
            {{ partial "footer.html" . }}
 
