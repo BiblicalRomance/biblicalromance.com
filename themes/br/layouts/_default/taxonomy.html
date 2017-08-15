@@ -4,7 +4,8 @@
 
       	<article id="content">
 
-          <h3>TAXONOMY vs other</h3>
+          <h3>All Topics</h3>
+
           <ul class="tags">
             {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
               <li><a style="text-transform: capitalize" href="#{{ $name | urlize}}">{{ $name }}</a>
