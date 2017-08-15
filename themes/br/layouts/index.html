@@ -15,42 +15,21 @@
 		<article id="content">
 
 				{{ range $.Site.Home.Sections }}
-					{{ if eq .Section "post" }}
-						<!-- <pre>
-							Section: {{ .Title }}
-							Kind: {{ .Kind }}
-							Pages: {{ len .Pages }}
-						</pre> -->
+					{{ if ne .Section "blog" }}
 
-						<!-- <ul>
+						<h2>{{ .Title }}</h2>
+						{{ .Content }}
+
+						<ul>
 							{{ range .Pages }}
-								 <li>Section Page: <a href="{{ .Permalink }}">{{ .Title }}</a></li>
+								 <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
 							{{ end }}
-						</ul> -->
-
-						{{ range .Sections }}
-							<!-- <h2>{{ .Title }}</h2> -->
-							 {{ if .Content }}
-							 	{{ .Content }}
-							 {{ else }}
-							 	<p>NO CONTENT</p>
-							 {{ end }}
-
-							 {{ range .Pages }}
-							 	<h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-								<p>{{ .Description }}</p>
-							 {{ end }}
-
-
-	 							<br><br><hr><br><br>
-
-						{{ end }}
+						</ul>
 
 					{{ end}}
-
 				{{ end }}
 
-        {{ partial "footer.html"     . }}
+        {{ partial "footer.html" . }}
     </article>
 
     {{ partial "js.html" . }}

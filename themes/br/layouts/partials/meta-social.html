@@ -1,5 +1,24 @@
 
+<meta name="og:title" content="{{ .Title }}" />
+<meta name="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}"/>
+
 {{ if .IsPage }}
+  <meta property="og:type" content="article" />
+  <meta property="article:modified_time" content="{{ .Date }}" />
+  <meta property="article:section" content="{{ .Section }}" />
+  <meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}" />
+  {{ with .Params.og_images }}{{ range first 6 . }}
+    <meta property="og:image" content="{{ . }}" />
+  {{ end }}{{ end }}
+  <meta property="og:image" content="{{ .Params.og_image }}" />
+  <meta property="og:image:url" content="{{ .Params.og_image }}" />
+
+  {{ if .Params.tags }}
+    {{ range .Params.tags }}
+      <meta property="article:tag" content="{{ . }}" />
+    {{ end }}
+  {{ end }}
+
   <!-- If it is part of a series, link to related articles -->
   {{ $permalink := .Permalink }}
   {{ $siteSeries := .Site.Taxonomies.series }}
@@ -13,28 +32,12 @@
       {{ end }}
     {{ end }}
   {{ end }}
-  <meta property="og:type" content="article" />
-  <meta property="article:modified_time" content="{{ .Date }}" />
-  <meta property="article:section" content="{{ .Section }}" />
-  <meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}" />
-  {{ with .Params.og_images }}{{ range first 6 . }}
-    <meta property="og:image" content="{{ . }}" />
-  {{ end }}{{ end }}
-  <meta property="og:image" content="{{ .Params.og_image }}" />
-  <meta property="og:image:url" content="{{ .Params.og_image }}" />
-  {{ if .Params.tags }}
-    {{ range .Params.tags }}
-      <meta property="article:tag" content="{{ . }}" />
-    {{ end }}
-  {{ end }}
+
 {{ else }}
   <meta property="og:type" content="blog" />
   <meta property="og:image" content="{{ .Site.Params.og_image }}" />
   <meta property="og:image:url" content="{{ .Site.Params.og_image }}" />
 {{ end }}
-
-<meta name="og:title" content="{{ .Title }}" />
-<meta name="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}"/>
 
 <!-- twitter -->
 <meta name="twitter:card" content="summary_large_image"/>

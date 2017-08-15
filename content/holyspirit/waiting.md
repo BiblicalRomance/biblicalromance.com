@@ -1,0 +1,59 @@
++++
+title = "Examples of waiting on the Lord"
+date = 2017-08-15T13:00:29-05:00
+tags = [""]
+categories = [""]
+draft = false
+hidden = false
++++
+
+
+The bible is full of examples of people waiting on the Lord and he moving mightily in their lives.
+
+<!--more-->
+
+### Ezra
+
+> "Then I proclaimed a fast there, at the river of Ahava, that we might afflict ourselves before our God, to seek of him a right way for us, and for our little ones, and for all our substance. For I was ashamed to require of the king a band of soldiers and horsemen to help us against the enemy in the way: because we had spoken unto the king, saying, The hand of our God is upon all them for good that seek him; but his power and his wrath is against all them that forsake him. So we fasted and besought our God for this: and he was intreated of us. - Ezra 8:21-23
+
+> "Then we departed from the river of Ahava on the twelfth day of the first month, to go unto Jerusalem: and the hand of our God was upon us, and he delivered us from the hand of the enemy, and of such as lay in wait by the way. - Ezra 8:31
+Daniel
+
+> "In the first year of his reign I Daniel understood by books the number of the years, whereof the word of the LORD came to Jeremiah the prophet, that he would accomplish seventy years in the desolations of Jerusalem. And I set my face unto the Lord God, to seek by prayer and supplications, with fasting, and sackcloth, and ashes: And I prayed unto the LORD my God, and made my confession, and said, O Lord, the great and dreadful God, keeping the covenant and mercy to them that love him, and to them that keep his commandments; - Daniel 9:2-4
+
+### Abraham’s servant, Eliezer
+
+> "And he made his camels to kneel down without the city by a well of water at the time of the evening, even the time that women go out to draw water. And he said, O LORD God of my master Abraham, I pray thee, send me good speed this day, and shew kindness unto my master Abraham. Behold, I stand here by the well of water; and the daughters of the men of the city come out to draw water: And let it come to pass, that the damsel to whom I shall say, Let down thy pitcher, I pray thee, that I may drink; and she shall say, Drink, and I will give thy camels drink also: let the same be she that thou hast appointed for thy servant Isaac; and thereby shall I know that thou hast shewed kindness unto my master. And it came to pass, before he had done speaking, that, behold, Rebekah came out, who was born to Bethuel, son of Milcah, the wife of Nahor, Abraham's brother, with her pitcher upon her shoulder. - Genesis 24:11-15
+
+> "And the man bowed down his head, and worshipped the LORD. And he said, Blessed be the LORD God of my master Abraham, who hath not left destitute my master of his mercy and his truth: I being in the way, the LORD led me to the house of my master's brethren. - Genesis 24:26-27
+
+> "And Isaac went out to meditate in the field at the eventide: and he lifted up his eyes, and saw, and, behold, the camels were coming. - Genesis 24:63
+
+### David
+
+> "And David said unto Nathan, I have sinned against the LORD. And Nathan said unto David, The LORD also hath put away thy sin; thou shalt not die. Howbeit, because by this deed thou hast given great occasion to the enemies of the LORD to blaspheme, the child also that is born unto thee shall surely die. And Nathan departed unto his house. And the LORD struck the child that Uriah's wife bare unto David, and it was very sick. David therefore besought God for the child; and David fasted, and went in, and lay all night upon the earth. And the elders of his house arose, and went to him, to raise him up from the earth: but he would not, neither did he eat bread with them. And it came to pass on the seventh day, that the child died. And the servants of David feared to tell him that the child was dead: for they said, Behold, while the child was yet alive, we spake unto him, and he would not hearken unto our voice: how will he then vex himself, if we tell him that the child is dead? But when David saw that his servants whispered, David perceived that the child was dead: therefore David said unto his servants, Is the child dead? And they said, He is dead. Then David arose from the earth, and washed, and anointed himself, and changed his apparel, and came into the house of the LORD, and worshipped: then he came to his own house; and when he required, they set bread before him, and he did eat. Then said his servants unto him, What thing is this that thou hast done? thou didst fast and weep for the child, while it was alive; but when the child was dead, thou didst rise and eat bread. And he said, While the child was yet alive, I fasted and wept: for I said, Who can tell whether GOD will be gracious to me, that the child may live? But now he is dead, wherefore should I fast? can I bring him back again? I shall go to him, but he shall not return to me. - 2 Samuel 12:13-23
+
+### Jehoshaphat
+
+> "It came to pass after this also, that the children of Moab, and the children of Ammon, and with them other beside the Ammonites, came against Jehoshaphat to battle. Then there came some that told Jehoshaphat, saying, There cometh a great multitude against thee from beyond the sea on this side Syria; and, behold, they be in Hazazontamar, which is Engedi. And Jehoshaphat feared, and set himself to seek the LORD, and proclaimed a fast throughout all Judah. And Judah gathered themselves together, to ask help of the LORD: even out of all the cities of Judah they came to seek the LORD. And Jehoshaphat stood in the congregation of Judah and Jerusalem, in the house of the LORD, before the new court, And said, O LORD God of our fathers, art not thou God in heaven? and rulest not thou over all the kingdoms of the heathen? and in thine hand is there not power and might, so that none is able to withstand thee? Art not thou our God, who didst drive out the inhabitants of this land before thy people Israel, and gavest it to the seed of Abraham thy friend for ever? And they dwelt therein, and have built thee a sanctuary therein for thy name, saying, If, when evil cometh upon us, as the sword, judgment, or pestilence, or famine, we stand before this house, and in thy presence, (for thy name is in this house,) and cry unto thee in our affliction, then thou wilt hear and help. And now, behold, the children of Ammon and Moab and mount Seir, whom thou wouldest not let Israel invade, when they came out of the land of Egypt, but they turned from them, and destroyed them not; Behold, I say, how they reward us, to come to cast us out of thy possession, which thou hast given us to inherit. O our God, wilt thou not judge them? for we have no might against this great company that cometh against us; neither know we what to do: but our eyes are upon thee. And all Judah stood before the LORD, with their little ones, their wives, and their children. Then upon Jahaziel the son of Zechariah, the son of Benaiah, the son of Jeiel, the son of Mattaniah, a Levite of the sons of Asaph, came the Spirit of the LORD in the midst of the congregation; And he said, Hearken ye, all Judah, and ye inhabitants of Jerusalem, and thou king Jehoshaphat, Thus saith the LORD unto you, Be not afraid nor dismayed by reason of this great multitude; for the battle is not yours, but God's. - 2 Chronicles 20:1-15
+
+
+### Jesus
+
+> "And it came to pass in those days, that he went out into a mountain to pray, and continued all night in prayer to God. And when it was day, he called unto him his disciples: and of them he chose twelve, whom also he named apostles; - Luke 6:12-13
+
+Jesus listened and was obedient to all God said:
+
+> "The Lord GOD hath opened mine ear, and I was not rebellious, neither turned away back. - Isaiah 50:5
+
+> "He that is of God heareth God's words: ye therefore hear them not, because ye are not of God. - John 8:47
+
+> "And when we hear God speak, we must follow His Word...because we love and trust Him!
+
+> "If ye love me, keep my commandments. - John 14:15
+
+Ezra fasted for three days with the people of Israel, seeking protection from the Lord for their journey. Daniel fasted and prayed for twenty-one days. Abraham's servant, Eliezer, got an instant answer from the Lord to his prayer. David laid prostrate on his face before God, fasting and praying all night that God would have mercy and spare the life of his child. Jehoshaphat discovered that an enemy army was coming. He set himself and the people of Israel to seek the Lord with fasting and prayer, and ask His help. In his prayer, Jehoshaphat proclaimed the character and the attributes of God, reminded God of His promises, and confessed their weakness and total dependence on God. God heard and answered and brought deliverance! Even Jesus, though He is deity, still spent time, again, and again, in the presence of His Father, seeking Him through prayer and often fasting, to know what God the Father would have Him say and do.
+
+Each of these people sought the Lord differently, but they all sought him. They waited upon God in faith and He provided for each one. Sometimes, God’s provision wasn’t what they had asked for. Yet we know God’s ways are higher than ours.
+
+> "Delight thyself also in the LORD: and he shall give thee the desires of thine heart. Commit thy way unto the LORD; trust also in him; and he shall bring it to pass. ...Rest in the LORD, and wait patiently for him... fret not thyself in any wise to do evil. For evildoers shall be cut off: but those that wait upon the LORD, they shall inherit the earth. ...But the meek shall inherit the earth; and shall delight themselves in the abundance of peace. ...A little that a righteous man hath is better than the riches of many wicked. For the arms of the wicked shall be broken: but the LORD upholdeth the righteous. The LORD knoweth the days of the upright: and their inheritance shall be for ever. They shall not be ashamed in the evil time: and in the days of famine they shall be satisfied. But the wicked shall perish... The steps of a good man are ordered by the LORD: and he delighteth in his way. Though he fall, he shall not be utterly cast down: for the LORD upholdeth him with his hand. I have been young, and now am old; yet have I not seen the righteous forsaken, nor his seed begging bread. ...The righteous shall inherit the land, and dwell therein for ever. The mouth of the righteous speaketh wisdom, and his tongue talketh of judgment. The law of his God is in his heart; none of his steps shall slide. ...Mark the perfect man, and behold the upright: for the end of that man is peace. ... the salvation of the righteous is of the LORD: he is their strength in the time of trouble. And the LORD shall help them, and deliver them: he shall deliver them from the wicked, and save them, because they trust in him. - Psalms 37

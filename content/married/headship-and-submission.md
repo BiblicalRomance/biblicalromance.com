@@ -1,0 +1,91 @@
++++
+title = "Servant Headship And Submission"
+date = 2017-08-15T16:40:52-05:00
+tags = [""]
+categories = [""]
+draft = false
+hidden = false
+toc = false
+og_image = ""
++++
+
+Marriage is one of the most attacked institutions God ever created. It was the first covenant that God set up, and it is the picture of Christ and His bride the Church. Marriage is one of the most used language pictures in the Bible.
+
+<!--more-->
+
+However, many couples reject God’s design in Scripture because of the sin of man. Husbands abuse wives, wives manipulate husbands, husbands love themselves rather than loving and serving their wives, and wives refuse to submit to their husbands.
+
+Nevertheless, our failure to keep God’s design in marriage does not mean we have the right to redefine marriage to suit our rebellion to God’s commands and ordinances.
+
+The scriptures say:
+
+> "Wives, submit yourselves unto your own husbands, as unto the Lord. For the husband is the head of the wife, even as Christ is the head of the church: and he is the saviour of the body. Therefore as the church is subject unto Christ, so let the wives be to their own husbands in every thing. Husbands, love your wives, even as Christ also loved the church, and gave himself for it; That he might sanctify and cleanse it with the washing of water by the word, That he might present it to himself a glorious church, not having spot, or wrinkle, or any such thing; but that it should be holy and without blemish. So ought men to love their wives as their own bodies. He that loveth his wife loveth himself. For no man ever yet hated his own flesh; but nourisheth and cherisheth it, even as the Lord the church: For we are members of his body, of his flesh, and of his bones. For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh. This is a great mystery: but I speak concerning Christ and the church. Nevertheless let every one of you in particular so love his wife even as himself; and the wife see that she reverence her husband." - Ephesians 5:22-33
+
+> "Wives, submit yourselves unto your own husbands, as it is fit in the Lord. Husbands, love your wives, and be not bitter against them." - Colossians 3:18-19
+Husbands Love/Sacrifice
+
+Christians are all supposed to love and serve one another (this includes Husbands and Wives). However, in marriage, husbands are specifically called to love and sacrifice for wives. Wives are not specifically called to sacrifice for their husbands.
+
+> "But as touching brotherly love ye need not that I write unto you: for ye yourselves are taught of God to love one another. - 1 Thessalonians 4
+
+> "By this shall all men know that ye are my disciples, if ye have love one to another. - John 13:35
+
+> "From whom the whole body fitly joined together and compacted by that which every joint supplieth, according to the effectual working in the measure of every part, maketh increase of the body unto the edifying of itself in love. - Ephesians 4
+
+> "Husbands, love your wives, even as Christ also loved the church, and gave himself for it; That he might sanctify and cleanse it with the washing of water by the word, That he might present it to himself a glorious church, not having spot, or wrinkle, or any such thing; but that it should be holy and without blemish. So ought men to love their wives as their own bodies. He that loveth his wife loveth himself. For no man ever yet hated his own flesh; but nourisheth and cherisheth it, even as the Lord the church: - Ephesians 5:25-29
+
+### Wives Submission/Obedience
+
+Christians are called to submit to each other (this includes husbands and wives), submit to government, and chiefly and above all (obviously) submit to God (even if you have to disobey parents/husbands/government). As pertaining to marriage, wives are especially called out to submit to their husband. Husbands are not specifically called out to submit to their wife. In Addition, Husbands do not have the authority to force their wives to submit.
+
+> "Likewise, ye younger, submit yourselves unto the elder. Yea, all of you be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble. - 1 Peter 5:5
+> "Submitting yourselves one to another in the fear of God. Wives, submit yourselves unto your own husbands, as unto the Lord. For the husband is the head of the wife, even as Christ is the head of the church: and he is the saviour of the body." - Ephesians 5:21-23
+> "Submit yourselves to every ordinance of man for the Lord's sake: whether it be to the king, as supreme; - 1 Peter 2
+> "Submit yourselves therefore to God. Resist the devil, and he will flee from you. - James 4:7
+Obey them that have the rule over you, and submit yourselves: for they watch for your souls, as they that must give account, that they may do it with joy, and not with grief: for that is unprofitable for you. - Hebrews 13:17
+> "That they [the elder women] may teach the young women to be sober, to love their husbands, to love their children, To be discreet, chaste, keepers at home, good, obedient to their own husbands, that the word of God be not blasphemed." - Titus 2:4-5
+> "Likewise, ye wives, be in subjection to your own husbands; that, if any obey not the word, they also may without the word be won by the conversation of the wives;" - 1 Peter 3
+
+### Power vs Authority
+
+In marriage, both the husband and the wive have physical rights and power over their spouse’s body. However, this isn’t the same as the husband and wife both being the "head" over each other.
+
+For example, the prophets were sent by God and had authority to speak God’s commands to the people. However, they were not the one that enforced submission to God’s commands. God (who has all power) would judge them if they rejected the prophet's message of action.
+
+This is the same concept as the watchmen only being responsible for warning the city of danger - not forcing everyone to respond.
+
+> "Let the husband render unto the wife due benevolence: and likewise also the wife unto the husband. The wife hath not power of her own body, but the husband: and likewise also the husband hath not power of his own body, but the wife. - 1 Corinthians 7:3-4
+
+The very next verse (vs 5) speaks about not depriving each other, which means this is something both spouses are to give to one another in love- not something that is demanded or taken from the other.
+
+### Honor
+
+In marriage, both husbands and wives are called to honor one another. Even though the wife submits to the husband, the husband still always honors the wife. Honor is not given based on who has the most power - but is based on God’s standard of holiness and charity.
+
+> "Be kindly affectioned one to another with brotherly love; in honour preferring one another; - Romans 12:10
+> "For after this manner in the old time the holy women also, who trusted in God, adorned themselves, being in subjection unto their own husbands: Even as Sara obeyed Abraham, calling him lord: whose daughters ye are, as long as ye do well, and are not afraid with any amazement. Likewise, ye husbands, dwell with them according to knowledge, giving honour unto the wife, as unto the weaker vessel, and as being heirs together of the grace of life; that your prayers be not hindered." - 1 Peter 3:5-7
+The Final Example is always Christ
+
+> "That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world: But now in Christ Jesus ye who sometimes were far off are made nigh by the blood of Christ. - Ephesians 2:12-13
+
+Christ died for His Bride while we were still in sin and hated God. Even in our rebellion He still came and served and died to save us, and glorify God, of whom Christ is in perfect submission too. Christ never forced anyone to believe on or serve Him. God gives all men the choice to choose their sin over Him.
+
+Despite repeated rejection, adultery, and sin of every kind. Christ still loved and served those that who would ultimately be called by His name as His Bride. Husbands are called to imitate Christ in this example.
+
+Husband, you are to strive for perfect submission to Christ in all things. You are to lead and rightly give yourself to serve and meet the needs of your wife to better be purified and confirmed into the image of Christ.
+
+Husband, there is no qualifier on your service to your wife - if you have to die serving her then that is your job.
+
+Wife, you are under the headship of your Husband in all areas that he is under the headship of Christ. If you reject the leading of your husband in an area in which he is being faithful to God and His Word, then you reject the plan of God and who God has placed to be your leader - for which you will give an account.
+
+Both husbands and wives (and unmarried people) must ultimately give an account to God for their submission and obedience to Him and His Word.
+
+## In Summary
+
+Husbands do have authority over their wives as their head, under the Lordship of Christ. In other words, husbands are given the position to lead their wives. However, Husbands do not have power over their wives to "make them" do anything. Any wife that does not submit to her own husband is either A) submitting herself to Christ first by rejecting evil of the husband or B) rejecting the leadership of her husband put in place by God, and therefore rejecting God’s will.
+
+Either way, it’s not the husband’s position to force the wife to do good (or bad) anymore than it’s a Christian’s position to force anyone to serve God.
+
+> "For, brethren, ye have been called unto liberty; only use not liberty for an occasion to the flesh, but by love serve one another. - Galatians 5:13
+
+If your spouse is doing evil, or simply not loving/honoring/serving you then your calling is to pray for them just as Christ prayed for the church. Do not underestimate the power of prayer.
