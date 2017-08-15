@@ -10,25 +10,26 @@
 
 	<main>
 
-		{{ partial "menu.html" . }}
+		{{ partial "nav.html" . }}
 
 		<article id="content">
 
 				{{ range $.Site.Home.Sections }}
 					{{ if eq .Section "post" }}
-						<pre>
+						<!-- <pre>
 							Section: {{ .Title }}
 							Kind: {{ .Kind }}
 							Pages: {{ len .Pages }}
-						</pre>
+						</pre> -->
 
-						<ul>
+						<!-- <ul>
 							{{ range .Pages }}
 								 <li>Section Page: <a href="{{ .Permalink }}">{{ .Title }}</a></li>
 							{{ end }}
-						</ul>
+						</ul> -->
 
 						{{ range .Sections }}
+							<!-- <h2>{{ .Title }}</h2> -->
 							 {{ if .Content }}
 							 	{{ .Content }}
 							 {{ else }}
@@ -40,7 +41,11 @@
 								<p>{{ .Description }}</p>
 							 {{ end }}
 
+
+	 							<br><br><hr><br><br>
+
 						{{ end }}
+
 					{{ end}}
 
 				{{ end }}

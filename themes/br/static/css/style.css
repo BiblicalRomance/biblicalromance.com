@@ -51,6 +51,9 @@ blockquote {
   /* font-style: italic; */
   border-radius: 3px;
 }
+blockquote p:last-child {
+  margin: 0;
+}
 
 #intro {
   background-color: #4183D7;

@@ -7,7 +7,24 @@
 			<main>
       	<article id="content">
 
-					<!-- <h1>Articles</h1> -->
+          <h2>{{ .Title }}</h2>
+          <p>{{ .Content }}</p>
+
+          {{ range .Pages }}
+            <div>
+              <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+              {{ .Summary }}
+
+              <!-- <p>
+                <!-- {{ .Plain | truncate 200 }} --
+
+                {{ if .Truncated }}
+                  <!-- <a href="{{ .RelPermalink }}">Read More…</a> --
+                {{ end }}
+              </p> -->
+            </div>
+
+          {{ end }}
 
 
 
@@ -28,15 +45,6 @@
               </div>
 
 					  {{ end }}
-
-            {{ range where .Paginator.Pages "Params.hidden" "ne" "true" }}
-  {{with .PrevInSection }}
-  {{ . }}
-  {{ end }}
-  {{ with .NextInSection }}
-  {{ . }}
-  {{ end }}
-  {{ end }}
 
 					  {{ range .Sections }}
               {{ if not .Params.hidden }}
