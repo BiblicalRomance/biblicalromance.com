@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Biblical Romance</title>
-    <link>https://biblicalromance.github.io/biblicalromance.com/categories/</link>
+    <link>http://biblicalromance.com/categories/</link>
     <description>Recent content in Categories on Biblical Romance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 04 Aug 2017 17:55:16 -0500</lastBuildDate>
     
-	<atom:link href="https://biblicalromance.github.io/biblicalromance.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://biblicalromance.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://biblicalromance.github.io/biblicalromance.com/categories/</link>
+      <link>http://biblicalromance.com/categories/</link>
       <pubDate>Fri, 04 Aug 2017 17:55:16 -0500</pubDate>
       
-      <guid>https://biblicalromance.github.io/biblicalromance.com/categories/</guid>
+      <guid>http://biblicalromance.com/categories/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Betrothal</title>
-      <link>https://biblicalromance.github.io/biblicalromance.com/categories/betrothal/</link>
+      <link>http://biblicalromance.com/categories/betrothal/</link>
       <pubDate>Tue, 15 Aug 2017 20:05:45 -0500</pubDate>
       
-      <guid>https://biblicalromance.github.io/biblicalromance.com/categories/betrothal/</guid>
+      <guid>http://biblicalromance.com/categories/betrothal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Holy Spirit</title>
-      <link>https://biblicalromance.github.io/biblicalromance.com/categories/holy-spirit/</link>
+      <link>http://biblicalromance.com/categories/holy-spirit/</link>
       <pubDate>Tue, 15 Aug 2017 13:00:29 -0500</pubDate>
       
-      <guid>https://biblicalromance.github.io/biblicalromance.com/categories/holy-spirit/</guid>
+      <guid>http://biblicalromance.com/categories/holy-spirit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Married</title>
-      <link>https://biblicalromance.github.io/biblicalromance.com/categories/married/</link>
+      <link>http://biblicalromance.com/categories/married/</link>
       <pubDate>Tue, 15 Aug 2017 16:40:52 -0500</pubDate>
       
-      <guid>https://biblicalromance.github.io/biblicalromance.com/categories/married/</guid>
+      <guid>http://biblicalromance.com/categories/married/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single</title>
-      <link>https://biblicalromance.github.io/biblicalromance.com/categories/single/</link>
+      <link>http://biblicalromance.com/categories/single/</link>
       <pubDate>Tue, 15 Aug 2017 20:09:00 -0500</pubDate>
       
-      <guid>https://biblicalromance.github.io/biblicalromance.com/categories/single/</guid>
+      <guid>http://biblicalromance.com/categories/single/</guid>
       <description></description>
     </item>
     

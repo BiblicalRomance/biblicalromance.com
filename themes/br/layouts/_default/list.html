@@ -12,7 +12,7 @@
 
           {{ range .Pages }}
             <div>
-              <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+              <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
               {{ .Summary }}
 
               <!-- <p>
@@ -34,7 +34,7 @@
 
 						{{ range .Pages }}
               <div>
-                <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+                <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
                 <p>
                   {{ .Plain | truncate 200 }}
                   {{ if .Truncated }}
@@ -54,7 +54,7 @@
 					     {{ range .Pages }}
 
                 <div>
-                  <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+                  <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
                   <p>
                     {{ .Plain | truncate 200 }}
                     {{ if .Truncated }}

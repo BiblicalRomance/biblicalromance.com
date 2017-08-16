@@ -11,6 +11,8 @@ og_image = ""
 
 The bible puts relationships in three categories (well four if you count immorality):
 
+<!--more-->
+
 - Brother / Sister (see also: Friend & Neighbor)
 - Betrothed (A covenanted romantic relationship)
 - Husband / Wife (Married)

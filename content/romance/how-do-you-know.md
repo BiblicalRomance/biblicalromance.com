@@ -11,6 +11,8 @@ og_image = ""
 
 The answer is the same for everything in life: *God told me to*.
 
+<!--more-->
+
 In the West, the vast majority of relationships involve the physical first. Physical always has to be last step, if the physical drives your love/marriage then you are in trouble. The only thing you should be pointing at is God driving your marriage.
 
 The only primary reason we should do anything is because God told us to. Without faith (and true faith has works) nothing we do will be pleasing to the Lord. (Hebrews 11:6) and since we no longer walk after the flesh we are now to be walking after the Spirit.
