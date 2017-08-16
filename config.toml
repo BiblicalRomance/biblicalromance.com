@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://biblicalromance.github.io/biblicalromance.com"
 languageCode = "en-us"
 title = "Biblical Romance"
 theme = "br"
