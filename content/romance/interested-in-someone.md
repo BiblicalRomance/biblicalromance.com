@@ -1,8 +1,8 @@
 +++
 title = "I'm interested in someone, now what?"
 date = 2017-08-15T14:00:35-05:00
-tags = ["Romance", "Single"]
-categories = ["Romance"]
+tags = ["Single"]
+categories = ["Single"]
 draft = false
 hidden = false
 toc = false
@@ -20,9 +20,9 @@ As Americans we really can’t be warned about our self-centeredness enough. Eve
 
 The Biblical answer is that everything you do should be an action of following God. There shouldn’t be any more time left in the day where you need to "figure out" what to do. We are servants of the Lord and He leads us.
 
-> "O LORD, I know that the way of man is not in himself: it is not in man that walketh to direct his steps. - Jeremiah 10:23
+> "O LORD, I know that the way of man is not in himself: it is not in man that walkes to direct his steps. - Jeremiah 10:23
 
-> "Therefore take no thought, saying, What shall we eat? or, What shall we drink? or, Wherewithal shall we be clothed? (For after all these things do the Gentiles seek:) for your heavenly Father knoweth that ye have need of all these things. But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you. - Matthew 6:31-33
+> "Therefore take no thought, saying, What shall we eat? or, What shall we drink? or, Wherewithal shall we be clothed? (For after all these things do the Gentiles seek:) for your heavenly Father knows that you have need of all these things. But seek you first the kingdom of God, and his righteousness; and all these things shall be added unto you. - Matthew 6:31-33
 
 We often imagine God as overworked, or uninterested, where He only has time for the "big" things in our lives. In reality, God is the only person that knows every hair on your head. He has already seen your future and is present every second of your life. You will never know yourself as well as He knows you.
 

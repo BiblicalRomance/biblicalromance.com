@@ -1,7 +1,7 @@
 +++
 title = "With Scripture"
 date = 2017-08-15T12:55:15-05:00
-tags = ["God"]
+tags = ["Holy Spirit"]
 categories = ["Holy Spirit"]
 draft = false
 hidden = false

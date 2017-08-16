@@ -1,8 +1,8 @@
 +++
 title = "Ladies: What to Look for in a Man"
 date = 2017-08-15T15:39:33-05:00
-tags = [""]
-categories = [""]
+tags = ["Single"]
+categories = ["Single"]
 draft = false
 hidden = false
 toc = false

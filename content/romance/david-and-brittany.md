@@ -1,7 +1,7 @@
 +++
 title = "David And Brittany's Story"
 date = 2017-08-15T15:45:43-05:00
-tags = ["Betrothal", "Romance"]
+tags = ["Betrothal"]
 categories = ["Betrothal"]
 draft = false
 hidden = false

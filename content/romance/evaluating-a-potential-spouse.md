@@ -1,8 +1,8 @@
 +++
 title = "Evaluating A Potential Spouse"
 date = 2017-08-15T16:16:46-05:00
-tags = [""]
-categories = [""]
+tags = ["Single"]
+categories = ["Single"]
 draft = false
 hidden = false
 toc = false
@@ -25,7 +25,7 @@ We should always be diligent workers (about our father's business like Jesus was
 
 You want to marry a man who makes money fit in around God’s leading to serve. Not a man who has made serving God fit in around his money-making work.
 
->"Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven. Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works? And then will I profess unto them, I never knew you: depart from me, ye that work iniquity. Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock: - Matthew 7:21-24
+>"Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that does the will of my Father which is in heaven. Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works? And then will I profess unto them, I never knew you: depart from me, ye that work iniquity. Therefore whosoever hears these sayings of mine, and does them, I will liken him unto a wise man, which built his house upon a rock: - Matthew 7:21-24
 
 I’ve seen many young people wasting their time on things that ultimately are self-centered, rather than God-centered. Added God as a co-pilot to your life is a big warning sign something is not right in our relationship to God.
 

@@ -1,8 +1,8 @@
 +++
 title = "Divorce"
 date = 2017-08-15T16:39:29-05:00
-tags = [""]
-categories = [""]
+tags = ["Married"]
+categories = ["Married"]
 draft = false
 hidden = false
 toc = false

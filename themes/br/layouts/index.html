@@ -18,7 +18,7 @@
 
 			<p>Walking by faith means we obey what He has already told us to do, and trust that He will provide for our every need (whatever is good for us) in His perfect timing. Waiting on the Lord means we put our own desires aside to seek the Lord until we receive direction. If you are to marry, the only marriage you should desire is one arranged by God.</p>
 
-				{{ range $.Site.Home.Sections }}
+				{{ range .Sections }}
 					{{ if ne .Section "blog" }}
 
 						<h2>{{ .Title }}</h2>

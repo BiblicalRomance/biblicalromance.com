@@ -1,8 +1,8 @@
 +++
 title = "Holy Spirit is Needed"
 date = 2017-08-15T12:47:48-05:00
-tags = [""]
-categories = [""]
+tags = ["Holy Spirit"]
+categories = ["Holy Spirit"]
 draft = false
 hidden = false
 +++

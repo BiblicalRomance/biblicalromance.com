@@ -1,8 +1,8 @@
 +++
 title = "Servant Headship And Submission"
 date = 2017-08-15T16:40:52-05:00
-tags = [""]
-categories = [""]
+tags = ["Married"]
+categories = ["Married"]
 draft = false
 hidden = false
 toc = false

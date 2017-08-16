@@ -1,8 +1,8 @@
 +++
 title = "Patience In A Relationship"
 date = 2017-08-15T16:24:02-05:00
-tags = [""]
-categories = [""]
+tags = ["Single"]
+categories = ["Single"]
 draft = false
 hidden = false
 toc = false

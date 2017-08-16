@@ -1,8 +1,8 @@
 +++
 title = "The Problem With Dating"
 date = 2017-08-15T13:46:10-05:00
-tags = [""]
-categories = [""]
+tags = ["Single", "Dating"]
+categories = ["Single"]
 draft = false
 hidden = false
 toc = false
@@ -64,9 +64,9 @@ Dating and courting are not seen anywhere in the Bible. Some good examples we se
 
 Jesus did not "date" the Church. He did not "test drive" the Church to see if they were compatible. Instead, in our darkest hour, Jesus obediently sacrificed himself for us as God had already promised.
 
-> "For when we were yet without strength, in due time Christ died for the ungodly. For scarcely for a righteous man will one die: yet peradventure for a good man some would even dare to die. But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us. - Romans 5:6-8
+> "For when we were yet without strength, in due time Christ died for the ungodly. For scarcely for a righteous man will one die: yet peradventure for a good man some would even dare to die. But God commends his love toward us, in that, while we were yet sinners, Christ died for us. - Romans 5:6-8
 
-> "And I heard as it were the voice of a great multitude, and as the voice of many waters, and as the voice of mighty thunderings, saying, Alleluia: for the Lord God omnipotent reigneth. Let us be glad and rejoice, and give honour to him: for the marriage of the Lamb is come, and his wife hath made herself ready. And to her was granted that she should be arrayed in fine linen, clean and white: for the fine linen is the righteousness of saints. And he saith unto me, Write, Blessed are they which are called unto the marriage supper of the Lamb. And he saith unto me, These are the true sayings of God. - Revelation 19:6-9
+> "And I heard as it were the voice of a great multitude, and as the voice of many waters, and as the voice of mighty thunderings, saying, Alleluia: for the Lord God omnipotent reigns. Let us be glad and rejoice, and give honour to him: for the marriage of the Lamb is come, and his wife hath made herself ready. And to her was granted that she should be arrayed in fine linen, clean and white: for the fine linen is the righteousness of saints. And he saith unto me, Write, Blessed are they which are called unto the marriage supper of the Lamb. And he saith unto me, These are the true sayings of God. - Revelation 19:6-9
 
 ### But I’ve Seen Dating Work
 

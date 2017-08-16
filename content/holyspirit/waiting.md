@@ -1,8 +1,8 @@
 +++
 title = "Examples of waiting on the Lord"
 date = 2017-08-15T13:00:29-05:00
-tags = [""]
-categories = [""]
+tags = ["Holy Spirit"]
+categories = ["Holy Spirit"]
 draft = false
 hidden = false
 +++

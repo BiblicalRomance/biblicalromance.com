@@ -1,8 +1,8 @@
 +++
 title = "Bible Verses"
 date = 2017-08-15T16:14:11-05:00
-tags = [""]
-categories = [""]
+tags = ["Betrothal", "Single"]
+categories = ["Betrothal", "Single"]
 draft = false
 hidden = false
 toc = false

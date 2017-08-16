@@ -1,8 +1,8 @@
 +++
 title = "The One"
 date = 2017-08-15T16:11:49-05:00
-tags = [""]
-categories = [""]
+tags = ["Single", "Betrothal"]
+categories = ["Single", "Betrothal"]
 draft = false
 hidden = false
 toc = false

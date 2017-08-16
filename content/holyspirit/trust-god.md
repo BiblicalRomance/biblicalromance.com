@@ -1,7 +1,7 @@
 +++
 title = "Trust God"
 date = "2012-04-06"
-tags = ["God"]
+tags = ["Holy Spirit"]
 categories = ["Holy Spirit"]
 draft = false
 +++

@@ -1,8 +1,8 @@
 +++
 title = "Good Not To Touch A Woman"
 date = 2017-08-15T16:19:49-05:00
-tags = [""]
-categories = [""]
+tags = ["Single"]
+categories = ["Single"]
 draft = false
 hidden = false
 toc = false

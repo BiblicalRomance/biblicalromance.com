@@ -1,8 +1,8 @@
 +++
 title = "Betrothal"
 date = 2017-08-15T15:43:15-05:00
-tags = [""]
-categories = [""]
+tags = ["Betrothal", "Single"]
+categories = ["Betrothal", "Single"]
 draft = false
 hidden = false
 toc = false

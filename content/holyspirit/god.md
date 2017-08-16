@@ -1,8 +1,8 @@
 +++
 title = "Who is God?"
 date = 2017-08-04T17:55:16-05:00
-tags = ["God"]
-categories = [""]
+tags = ["Holy Spirit"]
+categories = ["Holy Spirit"]
 draft = false
 +++
 

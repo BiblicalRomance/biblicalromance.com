@@ -1,8 +1,8 @@
 +++
 title = "Coveting A Wife"
 date = 2017-08-15T16:25:32-05:00
-tags = [""]
-categories = [""]
+tags = ["Single"]
+categories = ["Single"]
 draft = false
 hidden = false
 toc = false
@@ -11,11 +11,12 @@ og_image = ""
 
 
 Ephesians chapter 5 warns us about coveting something God has not given us. This is very important as it prevents us from pursuing other people in relationships God has not called us to.
+
 <!--more-->
 
 > "For this ye know, that no whoremonger, nor unclean person, nor covetous man, who is an idolater, hath any inheritance in the kingdom of Christ and of God. - Ephesians 5:5
 
-In fact, Ephesians 5 uses forniation as an example of allowing our own wants and desires to cause us to sin. If we do not trust God, then we can be tempted to date or simply covet someone who is not our spouse.
+In fact, Ephesians 5 uses fornication as an example of allowing our own wants and desires to cause us to sin. If we do not trust God, then we can be tempted to date or simply covet someone who is not our spouse.
 
 > "...But fornication, and all uncleanness, or covetousness, let it not be once named among you, as becometh saints; - Ephesians 5:3
 

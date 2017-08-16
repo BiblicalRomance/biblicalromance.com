@@ -10,10 +10,10 @@ googleAnalytics = "UA-56738037-1"
 
 [params]
 	name = "Biblical Romance"
-	description = "Blog Description"
+	description = "Dating, Courting, Betrothal and Marriage"
 	bio = "Marriage Arranged by God"
 	# Enter optionally your twitter account
-	twitter = "biblicalromance"
+	twitter = "romancebiblical"
 	enableRSS = true
 
 	# Disqus comment
@@ -29,7 +29,7 @@ googleAnalytics = "UA-56738037-1"
   enableToc = true
 
 	# Enable googleAnalytics
-	enableGoogleAnalytics = false
+	enableGoogleAnalytics = true
 
 	# Enable baiduAnalytics
 	enableBaiduAnalytics = false

@@ -1,8 +1,8 @@
 +++
 title = "No Fear In Love"
 date = 2017-08-15T16:23:10-05:00
-tags = [""]
-categories = [""]
+tags = ["Single"]
+categories = ["Single"]
 draft = false
 hidden = false
 toc = false
