@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marriage on Biblical Romance</title>
+    <link>http://example.org/tags/marriage/</link>
+    <description>Recent content in Marriage on Biblical Romance</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Aug 2017 16:35:29 -0500</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/marriage/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Marriage Is Hard</title>
+      <link>http://example.org/married/marriage-is-hard/</link>
+      <pubDate>Tue, 15 Aug 2017 16:35:29 -0500</pubDate>
+      
+      <guid>http://example.org/married/marriage-is-hard/</guid>
+      <description>&lt;p&gt;All marriages are hard in one of two ways, James 4:1 or Galatians 1:4. These are on two completely different ends of the &amp;ldquo;hard&amp;rdquo; spectrum. One is hard because of our own pride and selfishness, and one is hard because of sacrifice. One &amp;ldquo;hard&amp;rdquo; yields life, and one death.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

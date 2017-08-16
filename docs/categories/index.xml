@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Biblical Romance</title>
+    <link>http://example.org/categories/</link>
+    <description>Recent content in Categories on Biblical Romance</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Aug 2017 16:40:52 -0500</lastBuildDate>
+    
+	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://example.org/categories/</link>
+      <pubDate>Tue, 15 Aug 2017 16:40:52 -0500</pubDate>
+      
+      <guid>http://example.org/categories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Betrothal</title>
+      <link>http://example.org/categories/betrothal/</link>
+      <pubDate>Tue, 15 Aug 2017 15:45:43 -0500</pubDate>
+      
+      <guid>http://example.org/categories/betrothal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Holy Spirit</title>
+      <link>http://example.org/categories/holy-spirit/</link>
+      <pubDate>Tue, 15 Aug 2017 12:57:10 -0500</pubDate>
+      
+      <guid>http://example.org/categories/holy-spirit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marriage</title>
+      <link>http://example.org/categories/marriage/</link>
+      <pubDate>Tue, 15 Aug 2017 16:35:29 -0500</pubDate>
+      
+      <guid>http://example.org/categories/marriage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Romance</title>
+      <link>http://example.org/categories/romance/</link>
+      <pubDate>Tue, 15 Aug 2017 14:00:35 -0500</pubDate>
+      
+      <guid>http://example.org/categories/romance/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
